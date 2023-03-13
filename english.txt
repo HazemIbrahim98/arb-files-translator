@@ -1,0 +1,4 @@
+{
+    "example_translation": "Here is a sample text to be translated to all supported locales",
+    "second_example": "All strings inputed here will be found in the /result folder"
+}
